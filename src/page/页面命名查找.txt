@@ -1,0 +1,37 @@
+购物车
+	澳洲门店自取 - StorePickingAustra
+	国内门店自取 - StorePickingChina
+	放入云仓 - PutCloud
+	澳洲直邮购物车商城直发 - StoreDeliverAustra
+	国内直邮购物车商城直发 - StoreDeliverChina
+	选择门店 - ChooseStore
+	澳洲导入收件人组 - LeadRecipientZuAustra
+	导入取件人 - AddresserLead// 取件人即发件人
+	编辑包裹 - ParcelEdit
+	订单提交成功 - OrderSuccess
+	拆分拖拽 - SplitDrag
+订单
+	商城订单 - OrderStore
+	商城订单详情 - OrderStoreDetails
+	云仓订单 - OrderCloudAustra
+	云仓订单详情 - OrderCloudDetails
+会员中心
+	发件人库 - AddresserKu
+	发件人库添加 - AddresserAdd
+	发件人库添加 - AddresserEdit
+	我的云仓 - MyCloud
+	我的云仓操作 - MyCloudEdit
+	我的积分 - MyIntegral 
+	受邀好友 - MyIntegralInvite
+	佣金流水 - MyIntegralWater
+	收件人库 - RecipientKu
+	收件人库编辑 - RecipientKuEdit
+	收件人库添加 - RecipientKuAdd
+	收件人组 - RecipientZu
+	收件人组添加 - RecipientZuAdd
+	收件人组编辑 - RecipientZuEdit
+	导入收件人 - RecipientLead
+	余额充值 - Recharge
+	云仓日志 - CloudLog
+	余额日志 - BalanceLog
+	积分日志 - IntegralLog
